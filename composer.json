@@ -3,7 +3,7 @@
 	"description": "The tool to convert amount to words in Russian/Ukrainian/English languages",
 	"keywords": ["money", "js", "php", "java"],
 	"type": "library",
-	"homepage": "https://github.com/bocharsky-bw/vkontakte-php-sdk",
+	"homepage": "https://github.com/javadev",
 	"license": "MIT",
 	"authors": [{
 		"name": "Valentyn Kolesnikov",
@@ -14,7 +14,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"": "src/"
+			"MoneyToStr": "src/"
 		}
 	}
 }
